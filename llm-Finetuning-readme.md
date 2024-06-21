@@ -4,15 +4,24 @@
 1. [Introduction](#introduction)
 2. [Understanding Large Language Models (LLMs)](#understanding-llms)
    2.1. [Architecture](#architecture)
+   
    2.2. [Training Process](#training-process)
+   
    2.3. [Capabilities and Limitations](#capabilities-and-limitations)
+   
    2.4. [Popular LLM Architectures](#popular-llm-architectures)
+   
 3. [Prerequisites for Finetuning](#prerequisites)
 4. [The Finetuning Process in Detail](#finetuning-process)
+
    4.1. [Data Preparation](#data-preparation)
+   
    4.2. [Model Selection](#model-selection)
+   
    4.3. [Hyperparameter Tuning](#hyperparameter-tuning)
+   
    4.4. [Training Process](#training-process-detailed)
+   
    4.5. [Evaluation](#evaluation)
 5. [Advanced Finetuning Techniques](#advanced-techniques)
 6. [Challenges and Considerations](#challenges-and-considerations)
